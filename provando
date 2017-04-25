@@ -5,15 +5,12 @@
     
   </head>
   <style type="text/css">
-  	.right {
-    position: absolute;
-    right: 0px;
-    width: 300px;
-    padding: 10px;
+  	
 }
 
   </style>
   <body>
+  <h1>raspas de pescado </h1>
 
   </body>
 </html>
