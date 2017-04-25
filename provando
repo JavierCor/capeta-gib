@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html class="loading" dir="ltr">
+  <head>
+    <meta charset="UTF-8"/>
+    
+  </head>
+  <style type="text/css">
+  	.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+}
+
+  </style>
+  <body>
+
+  </body>
+</html>
